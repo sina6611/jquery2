@@ -47,11 +47,11 @@ $(document).ready(function(){
 
    let offf={name:'Sina', familyname:'barbaz esfahani'};
    console.log(offf.familyname);
-   offf.familyname="ahmadi";
+   offf.familyname="ahmadi";s
    console.log(offf.familyname);
    console.log(offf);
      */
-    class touch
+    class touchs
 {
 constructor(name, familyname){
     this.name=name;
